@@ -64,15 +64,13 @@ Maintainable code   Practical UX             Continuous learning
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toiyeuphunu999&theme=github_dark" alt="Khang Nguyen's GitHub statistics" width="96%" />
+<a href="https://github.com/toiyeuphunu999?tab=repositories"><img src="https://img.shields.io/badge/Public%20repositories-6-243c33?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" /></a>
+<a href="https://github.com/toiyeuphunu999"><img src="https://img.shields.io/github/followers/toiyeuphunu999?style=for-the-badge&label=Followers&color=78b696&labelColor=111715" alt="GitHub followers" /></a>
+<a href="https://github.com/toiyeuphunu999?tab=stars"><img src="https://img.shields.io/github/stars/toiyeuphunu999?style=for-the-badge&label=Stars&color=f49a70&labelColor=111715" alt="GitHub stars" /></a>
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toiyeuphunu999&theme=github_dark" alt="Khang Nguyen's repositories by language" height="170" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=toiyeuphunu999&hide_border=true&background=00000000&ring=f49a70&fire=f49a70&currStreakLabel=f49a70&sideLabels=9aa7a0&dates=9aa7a0" alt="Khang Nguyen's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=toiyeuphunu999&hide_border=true&background=111715&border=243c33&ring=f49a70&fire=f49a70&currStreakLabel=f49a70&sideLabels=d9e8df&dates=9aa7a0&currStreakNum=f5f8f5&sideNums=f5f8f5" alt="Khang Nguyen's GitHub contribution streak" />
 
 <br />
 
