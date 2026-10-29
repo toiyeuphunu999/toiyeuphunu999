@@ -1,8 +1,10 @@
 <div align="center">
 
-# Khang Nguyen
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111715,50:243c33,100:f49a70&height=190&section=header&text=Khang%20Nguyen&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="Khang Nguyen" />
 
-### Backend Developer · Web Developer
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=22&duration=3000&pause=1000&color=F49A70&center=true&vCenter=true&width=620&lines=Backend+Developer;API+Builder;Product-minded+Web+Developer;Always+learning%2C+always+shipping" alt="Typing introduction" /></a>
+
+<p>Backend Developer · Web Developer</p>
 
 Building reliable APIs, backend services and practical web products from Thai Binh, Vietnam.
 
@@ -69,6 +71,10 @@ Maintainable code   Practical UX             Continuous learning
 
 <img src="https://streak-stats.demolab.com?user=toiyeuphunu999&hide_border=true&background=00000000&ring=f49a70&fire=f49a70&currStreakLabel=f49a70&sideLabels=9aa7a0&dates=9aa7a0" alt="Khang Nguyen's GitHub contribution streak" />
 
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toiyeuphunu999&bg_color=00000000&color=9aa7a0&line=f49a70&point=78b696&area=true&area_color=243c33&hide_border=true" width="96%" alt="GitHub activity graph" />
+
 </div>
 
 ## Currently building
@@ -88,3 +94,5 @@ If you have a product idea, a junior developer opportunity or a practical collab
 <sub>© Khang Nguyen · Backend Developer</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f49a70,50:243c33,100:111715&height=110&section=footer&animation=fadeIn" width="100%" alt="Footer decoration" />
