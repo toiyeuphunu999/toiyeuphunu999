@@ -64,16 +64,17 @@ Maintainable code   Practical UX             Continuous learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=toiyeuphunu999&show_icons=true&hide_border=true&theme=transparent&title_color=f49a70&text_color=9aa7a0&icon_color=78b696&rank_icon=github" alt="Khang Nguyen's GitHub statistics" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toiyeuphunu999&layout=compact&hide_border=true&theme=transparent&title_color=f49a70&text_color=9aa7a0" alt="Khang Nguyen's most used languages" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toiyeuphunu999&theme=github_dark" alt="Khang Nguyen's GitHub statistics" width="96%" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toiyeuphunu999&theme=github_dark" alt="Khang Nguyen's repositories by language" height="170" />
 
 <br />
 
 <img src="https://streak-stats.demolab.com?user=toiyeuphunu999&hide_border=true&background=00000000&ring=f49a70&fire=f49a70&currStreakLabel=f49a70&sideLabels=9aa7a0&dates=9aa7a0" alt="Khang Nguyen's GitHub contribution streak" />
 
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toiyeuphunu999&bg_color=00000000&color=9aa7a0&line=f49a70&point=78b696&area=true&area_color=243c33&hide_border=true" width="96%" alt="GitHub activity graph" />
 
 </div>
 
